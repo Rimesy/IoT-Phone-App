@@ -1,6 +1,6 @@
-﻿## CM2211 Internet of Things Project - Mobile App
+﻿## IoT Phone App
 
-This is the mobile app side of our group project, meant to be installed on an Android phone.
+This is the mobile app side of the project, meant to be installed on an Android phone.
 The app itself has been created in .NET MAUI.
 
 ## Installation
@@ -14,4 +14,4 @@ These instructions are for Windows devices, but it can also be installed and ran
    **Note**: This must be Java 17 (no newer versions). You are welcome to use your own Java distributions
 
 4. Ensure `java.exe` has been added to the PATH variable.
-5. Use [this guide](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?view=net-maui-8.0&tabs=vswin&pivots=devices-android) to install an Android emulator and run the Android app. Note that you must use an API version greater than 34 (we recommend downloading the Google Pixel 6a emulator)
+5. Use [this guide](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app?view=net-maui-8.0&tabs=vswin&pivots=devices-android) to install an Android emulator and run the Android app. Note that you must use an API version greater than 34 (I recommend downloading the Google Pixel 6a emulator)
