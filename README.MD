@@ -8,8 +8,15 @@ This project builds upon a group project I was part of for my 'CM2211 - Internet
 
 ## Project overview
 
+This project is an app that allows voice input when a physical button connected to a Raspberry Pi is pressed. The voice input is run through OpenAI's API and an AI generated answer is outputted back from the Raspberry Pi.
+
 This is the mobile app side of the project, meant to be installed on an Android phone.
 The app itself has been created in .NET MAUI.
+
+### Technologies:
+- C#
+- .NET MAUI
+
 
 ### How to run:
 These instructions are for Windows devices, but it can also be installed and ran on MacOS and Linux
